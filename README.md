@@ -61,44 +61,10 @@ synchronize-Website/
     └── *.png          # Event images
 ```
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm or yarn package manager
-- A modern web browser
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd synchronize-Website
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Build Tailwind CSS (if needed):
-```bash
-npm run build
-```
-
 ## 📱 How to Run
 
 ### Development Mode
 Simply open `index.html` in your web browser, or use a local server:
-
-```bash
-# Using Python 3
-python -m http.server 8000
-
-# Or using Node.js (http-server)
-npx http-server
-```
 
 Then navigate to `http://localhost:8000` (or appropriate port)
 
@@ -150,7 +116,3 @@ For contributions or issues, please contact the event organizers.
 ## 📧 Contact
 
 For more information about the Synchronize event, visit the main website or contact the event team.
-
----
-
-**Last Updated**: February 16, 2026
